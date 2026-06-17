@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/SwathiPriya37/LeetCode/tree/master/0001-two-sum) |
 | [0303-range-sum-query-immutable](https://github.com/SwathiPriya37/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/SwathiPriya37/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/SwathiPriya37/LeetCode/tree/master/0875-koko-eating-bananas) |
@@ -27,4 +28,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/SwathiPriya37/LeetCode/tree/master/0303-range-sum-query-immutable) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/SwathiPriya37/LeetCode/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
