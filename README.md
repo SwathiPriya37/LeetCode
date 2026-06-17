@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/SwathiPriya37/LeetCode/tree/master/0001-two-sum) |
+| [0053-maximum-subarray](https://github.com/SwathiPriya37/LeetCode/tree/master/0053-maximum-subarray) |
 | [0217-contains-duplicate](https://github.com/SwathiPriya37/LeetCode/tree/master/0217-contains-duplicate) |
 | [0303-range-sum-query-immutable](https://github.com/SwathiPriya37/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/SwathiPriya37/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -50,4 +51,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0217-contains-duplicate](https://github.com/SwathiPriya37/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/SwathiPriya37/LeetCode/tree/master/0242-valid-anagram) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/SwathiPriya37/LeetCode/tree/master/0053-maximum-subarray) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/SwathiPriya37/LeetCode/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
