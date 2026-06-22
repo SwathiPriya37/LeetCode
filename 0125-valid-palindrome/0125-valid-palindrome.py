@@ -7,4 +7,3 @@ class Solution:
                 cleaned += ch.lower()
 
         return cleaned == cleaned[::-1]
-        
