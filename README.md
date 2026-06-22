@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/SwathiPriya37/LeetCode/tree/master/0007-reverse-integer) |
 | [0069-sqrtx](https://github.com/SwathiPriya37/LeetCode/tree/master/0069-sqrtx) |
 ## Design
 |  |
