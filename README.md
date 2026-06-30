@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/SwathiPriya37/LeetCode/tree/master/0053-maximum-subarray) |
 | [0217-contains-duplicate](https://github.com/SwathiPriya37/LeetCode/tree/master/0217-contains-duplicate) |
 | [0303-range-sum-query-immutable](https://github.com/SwathiPriya37/LeetCode/tree/master/0303-range-sum-query-immutable) |
+| [0347-top-k-frequent-elements](https://github.com/SwathiPriya37/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/SwathiPriya37/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/SwathiPriya37/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [0912-sort-an-array](https://github.com/SwathiPriya37/LeetCode/tree/master/0912-sort-an-array) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/SwathiPriya37/LeetCode/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/SwathiPriya37/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/SwathiPriya37/LeetCode/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/SwathiPriya37/LeetCode/tree/master/0347-top-k-frequent-elements) |
 ## String
 |  |
 | ------- |
@@ -61,11 +63,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/SwathiPriya37/LeetCode/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/SwathiPriya37/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/SwathiPriya37/LeetCode/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/SwathiPriya37/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/SwathiPriya37/LeetCode/tree/master/0912-sort-an-array) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/SwathiPriya37/LeetCode/tree/master/0053-maximum-subarray) |
+| [0347-top-k-frequent-elements](https://github.com/SwathiPriya37/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/SwathiPriya37/LeetCode/tree/master/0912-sort-an-array) |
 ## Dynamic Programming
 |  |
@@ -79,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/SwathiPriya37/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/SwathiPriya37/LeetCode/tree/master/0912-sort-an-array) |
 ## Merge Sort
 |  |
@@ -87,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bucket Sort
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/SwathiPriya37/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/SwathiPriya37/LeetCode/tree/master/0912-sort-an-array) |
 ## Radix Sort
 |  |
@@ -95,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/SwathiPriya37/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/SwathiPriya37/LeetCode/tree/master/0912-sort-an-array) |
 ## Two Pointers
 |  |
@@ -113,4 +120,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/SwathiPriya37/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/SwathiPriya37/LeetCode/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
