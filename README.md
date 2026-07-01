@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/SwathiPriya37/LeetCode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/SwathiPriya37/LeetCode/tree/master/0053-maximum-subarray) |
 | [0217-contains-duplicate](https://github.com/SwathiPriya37/LeetCode/tree/master/0217-contains-duplicate) |
+| [0238-product-of-array-except-self](https://github.com/SwathiPriya37/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/SwathiPriya37/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/SwathiPriya37/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/SwathiPriya37/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/SwathiPriya37/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/SwathiPriya37/LeetCode/tree/master/0303-range-sum-query-immutable) |
 ## Hash Table
 |  |
