@@ -1,11 +1,11 @@
 class Solution:
     def reverseString(self, s: List[str]) -> None:
-        left = 0
-        right = len(s) -1
+        low = 0
+        high = len(s) - 1
 
-        while left < right:
-            s[left], s[right] = s[right], s[left]
-            
-            left += 1
-            right -= 1
+        while low < high:
+            s[low],s[high] = s[high], s[low]
+
+            low += 1
+            high -=1
         
