@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/SwathiPriya37/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/SwathiPriya37/LeetCode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/SwathiPriya37/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [1796-second-largest-digit-in-a-string](https://github.com/SwathiPriya37/LeetCode/tree/master/1796-second-largest-digit-in-a-string) |
 ## String
 |  |
 | ------- |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/SwathiPriya37/LeetCode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/SwathiPriya37/LeetCode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/SwathiPriya37/LeetCode/tree/master/0344-reverse-string) |
+| [1796-second-largest-digit-in-a-string](https://github.com/SwathiPriya37/LeetCode/tree/master/1796-second-largest-digit-in-a-string) |
 ## Sliding Window
 |  |
 | ------- |
