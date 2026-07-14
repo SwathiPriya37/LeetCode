@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0852-peak-index-in-a-mountain-array](https://github.com/SwathiPriya37/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/SwathiPriya37/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [0912-sort-an-array](https://github.com/SwathiPriya37/LeetCode/tree/master/0912-sort-an-array) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/SwathiPriya37/LeetCode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 ## Binary Search
 |  |
 | ------- |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/SwathiPriya37/LeetCode/tree/master/0007-reverse-integer) |
 | [0069-sqrtx](https://github.com/SwathiPriya37/LeetCode/tree/master/0069-sqrtx) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/SwathiPriya37/LeetCode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/SwathiPriya37/LeetCode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Design
 |  |
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/SwathiPriya37/LeetCode/tree/master/0053-maximum-subarray) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/SwathiPriya37/LeetCode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 ## Stack
 |  |
 | ------- |
@@ -144,4 +147,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/SwathiPriya37/LeetCode/tree/master/1291-sequential-digits) |
+## Number Theory
+|  |
+| ------- |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/SwathiPriya37/LeetCode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 <!---LeetCode Topics End-->
