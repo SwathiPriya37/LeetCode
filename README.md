@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/SwathiPriya37/LeetCode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/SwathiPriya37/LeetCode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SwathiPriya37/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0031-next-permutation](https://github.com/SwathiPriya37/LeetCode/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/SwathiPriya37/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/SwathiPriya37/LeetCode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/SwathiPriya37/LeetCode/tree/master/0053-maximum-subarray) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/SwathiPriya37/LeetCode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SwathiPriya37/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0031-next-permutation](https://github.com/SwathiPriya37/LeetCode/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/SwathiPriya37/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/SwathiPriya37/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/SwathiPriya37/LeetCode/tree/master/0125-valid-palindrome) |
