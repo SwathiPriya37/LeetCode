@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/SwathiPriya37/LeetCode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/SwathiPriya37/LeetCode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/SwathiPriya37/LeetCode/tree/master/0238-product-of-array-except-self) |
+| [0268-missing-number](https://github.com/SwathiPriya37/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/SwathiPriya37/LeetCode/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/SwathiPriya37/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/SwathiPriya37/LeetCode/tree/master/0347-top-k-frequent-elements) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/SwathiPriya37/LeetCode/tree/master/0069-sqrtx) |
+| [0268-missing-number](https://github.com/SwathiPriya37/LeetCode/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/SwathiPriya37/LeetCode/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/SwathiPriya37/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/SwathiPriya37/LeetCode/tree/master/0875-koko-eating-bananas) |
@@ -43,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/SwathiPriya37/LeetCode/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/SwathiPriya37/LeetCode/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/SwathiPriya37/LeetCode/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/SwathiPriya37/LeetCode/tree/master/0268-missing-number) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/SwathiPriya37/LeetCode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/SwathiPriya37/LeetCode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Design
@@ -63,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/SwathiPriya37/LeetCode/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/SwathiPriya37/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/SwathiPriya37/LeetCode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/SwathiPriya37/LeetCode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/SwathiPriya37/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [1796-second-largest-digit-in-a-string](https://github.com/SwathiPriya37/LeetCode/tree/master/1796-second-largest-digit-in-a-string) |
 ## String
@@ -89,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/SwathiPriya37/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/SwathiPriya37/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/SwathiPriya37/LeetCode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/SwathiPriya37/LeetCode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/SwathiPriya37/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/SwathiPriya37/LeetCode/tree/master/0912-sort-an-array) |
 ## Divide and Conquer
@@ -178,4 +183,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/SwathiPriya37/LeetCode/tree/master/0011-container-with-most-water) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/SwathiPriya37/LeetCode/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
